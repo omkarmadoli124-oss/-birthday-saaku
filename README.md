@@ -4,13 +4,11 @@ A cinematic, single-page birthday experience built with HTML, CSS, JavaScript, G
 
 ## Add your assets
 
-Put personal photos in `assets/images/`. The default configuration expects:
+Put personal photos in `assets/images/`. The current configuration uses:
 
-- `saaku-01.jpg`
-- `saaku-02.jpg`
-- `saaku-03.jpg`
-- `saaku-04.jpg`
-- `saaku-05.jpg`
+- `WhatsApp Image 2026-08-20 at 11.57.46 AM (5).jpg`
+- `WhatsApp Image 2026-08-20 at 11.57.46 AM (1).jpeg`
+- `WhatsApp Image 2026-08-20 at 11.57.47 AM.jpeg`
 
 Put the uploaded song at `assets/music/birthday-song.mp3`. Music only starts after clicking `Enter the story`.
 
